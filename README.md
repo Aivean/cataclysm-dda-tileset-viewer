@@ -7,7 +7,14 @@ Has rudimentary filtering capabilities.
 
 
 Usage
------
+=====
+
+Current master branch available here:
+http://aivean.com/cataclysm-dda-tileset-viewer/
+
+
+Local Usage
+-----------
 
 To run locally:
 * start any webserver in project directory
